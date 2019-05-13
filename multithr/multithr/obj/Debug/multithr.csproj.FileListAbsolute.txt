@@ -1,0 +1,10 @@
+C:\Users\ma551917\OneDrive - GSK\Desktop\multithr\multithr\bin\Debug\multithr.exe.config
+C:\Users\ma551917\OneDrive - GSK\Desktop\multithr\multithr\bin\Debug\multithr.exe
+C:\Users\ma551917\OneDrive - GSK\Desktop\multithr\multithr\bin\Debug\multithr.pdb
+C:\Users\ma551917\OneDrive - GSK\Desktop\multithr\multithr\obj\Debug\multithr.csprojAssemblyReference.cache
+C:\Users\ma551917\OneDrive - GSK\Desktop\multithr\multithr\obj\Debug\multithr.Form1.resources
+C:\Users\ma551917\OneDrive - GSK\Desktop\multithr\multithr\obj\Debug\multithr.Properties.Resources.resources
+C:\Users\ma551917\OneDrive - GSK\Desktop\multithr\multithr\obj\Debug\multithr.csproj.GenerateResource.cache
+C:\Users\ma551917\OneDrive - GSK\Desktop\multithr\multithr\obj\Debug\multithr.csproj.CoreCompileInputs.cache
+C:\Users\ma551917\OneDrive - GSK\Desktop\multithr\multithr\obj\Debug\multithr.exe
+C:\Users\ma551917\OneDrive - GSK\Desktop\multithr\multithr\obj\Debug\multithr.pdb
